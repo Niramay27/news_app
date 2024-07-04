@@ -70,7 +70,7 @@
         let page = parseInt(new URLSearchParams(window.location.search).get('pageNo'));
 
         const fetchNews = async (query, pageNo) => {
-            let a = await fetch(`https://newsapi.org/v2/everything?q=${query}&apiKey=75445255270346f0beb727f01a33ed3c&pageSize=${articlesperpage}&page=${pageNo}`);
+            let a = await fetch(`/api?q=${query}&apiKey=75445255270346f0beb727f01a33ed3c&pageSize=${articlesperpage}&page=${pageNo}`);
             let r = await a.json();
             console.log(r);
             totalpages = Math.ceil(r.totalResults / articlesperpage);
