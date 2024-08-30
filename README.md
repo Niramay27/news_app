@@ -9,10 +9,10 @@ Features:
 - Responsive Design: The app is fully responsive and works well on both desktop and mobile devices.
 
 Technologies Used:
-Frontend: HTML, CSS, JavaScript, React.js
-Backend: Node.js, Express.js
-APIs: News API (for fetching news articles)
-Authentication: JSON Web Tokens (JWT)
+- Frontend: HTML, CSS, JavaScript, React.js
+- Backend: Node.js, Express.js
+- APIs: News API (for fetching news articles)
+- Authentication: JSON Web Tokens (JWT)
 
 To run this project locally, follow these steps:
 1. Clone the repo: git clone https://github.com/Niramay27/news_app.git
