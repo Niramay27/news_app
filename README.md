@@ -4,9 +4,9 @@ This is a learning project about API fetching and using it on website.
 Welcome to the News App repository! This project is a web application that aggregates and displays the news articles using API from news api. It is built using HTML,Bootstrap,JavaScript and ExpressJS and provides users with an intuitive interface to stay updated with current events.
 
 Features:
-Search Functionality: Allows users to search for news articles based on keywords.
-Category Filtering: Users can filter news articles by categories such as sports, technology, business, etc.
-Responsive Design: The app is fully responsive and works well on both desktop and mobile devices.
+- Search Functionality: Allows users to search for news articles based on keywords.
+- Category Filtering: Users can filter news articles by categories such as sports, technology, business, etc.
+- Responsive Design: The app is fully responsive and works well on both desktop and mobile devices.
 
 Technologies Used:
 Frontend: HTML, CSS, JavaScript, React.js
